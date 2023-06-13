@@ -1,0 +1,22 @@
+/* Online C# Compiler and Editor */
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    //Comentário de linha 
+    /*
+        comentário de bloco
+        linha1
+        linha2
+    */
+    int idade = 40;
+    string nome = "Ana Laura";
+    double valor = 10.50;
+    char letra = "A";
+    bool status = true;
+    }
+}
